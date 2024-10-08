@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmZNx2xw/20241008-191716.jpg" group-title="Grope Name", Ban vs Ind
-https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=mlFCmRlJ1lsHWe95Wy7_EA&expires=1728610941&user=d477246e9e724f81a011b847457e71c4  
+http://ktv.im:8080/live/111222/222111/83779.ts   
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcxR0h2/20241008-193409.jpg" group-title="Grope Name", Women's World Cup 2024
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=i-SCbuhreQLPygw5muy8-Q&expires=1728610893&user=d477246e9e724f81a011b847457e71c4  
