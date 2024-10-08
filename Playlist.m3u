@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmZNx2xw/20241008-191716.jpg" group-title="Grope Name", Ban vs Ind
+https://bdiptv24.com/Toffeelive/live.php?id=9b35bbb302b9&e=.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/mrBDZCNk/20241008-185807.jpg",Bioshakhi TV
 https://entezeetv.fun/bdcast/hls/index.m3u8?id=e0cfe755&e=.m3u8 
 
