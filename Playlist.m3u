@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmZNx2xw/20241008-191716.jpg" group-title="Grope Name", Ban vs Ind
-http://172.16.29.34/ontest1/ontest1/181    
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1728664764&md5=0Z7vHDGyfEGXqgGRSaNZGA&user=d477246e9e724f81a011b847457e71c4     
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PrcxR0h2/20241008-193409.jpg" group-title="Grope Name", Women's World Cup 2024
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/playlist.m3u8?md5=i-SCbuhreQLPygw5muy8-Q&expires=1728610893&user=d477246e9e724f81a011b847457e71c4  
@@ -17,6 +17,9 @@ https://entezeetv.fun/bdcast/hls/index.m3u8?id=1726ae10&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0Ns66Lx8/20241008-190358.jpg",asiantv
 https://mtlivestream.com/asian/ytlive/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDspgszK/20240426-170712.png" group-title="Kolkata", Bangla Pulas
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLzy1LnT/20241008-185443.jpg",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8 
