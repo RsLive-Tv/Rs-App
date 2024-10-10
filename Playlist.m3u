@@ -4,7 +4,10 @@
 https://edge01.iptv.digijadoo.net/live/t_sports/playlist.m3u8?md5=GOnEQlWiFwXbbjGLS5Tigg&expires=1728756107&user=d477246e9e724f81a011b847457e71c4 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAyTdZ3CVtH8NgfCeE_strcxTltA0JsT3ggheYYSN3BtnuIbpqok2ELKU&s=10" group-title="Grope Name", Somoy News
-https://edge01.iptv.digijadoo.net/live/somoy_news/playlist.m3u8?md5=RNvsHJaVH9Ks_AdsHJge-Q&expires=1728756260&user=d477246e9e724f81a011b847457e71c4 
+https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66EJbmWeAyj7uONQ56IXzLVS4FRNnpxUVDnhQ38noGL-ToulIcKSgalE&s=10" group-title="Grope Name", Movie Bangla 
+https://global.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8 
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDIrPets2sL60aHssqiKPYPG_hKToPg-pWEEwCiuujfUM=s900-c-k-c0x00ffffff-no-rj" group-title="Grope Name", T Sports 
 https://mytvbangla.com/0.m3u8   
