@@ -9,6 +9,9 @@ https://global.ncare.live/live-orgin/channeleurope.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgAhuvXCgj4E-Z2d87PMxXGQ79SL0qZKMiLQF2UyRJUJ9-YhAR5Lp45fCa&s=10" group-title="Grope Name", Anonda Tv
 http://global.ncare.live/live-orgin/anandatv.stream/playlist.m3u8   
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqMzglzD00vjLUOHR7D9sUki2btBvXn2jlDHippV4W0y7-2iZMWmmTwr0X&s=10" group-title="Grope Name", Jamuna News
+https://global.ncare.live/live-orgin/jamuna-test-sample-ok.stream/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwiWwMF7vz1WjLFI5XDpn1gPsL8F_jekTnZxTTXNTAIBMb34zne0gpmfZa&s=10" group-title="Grope Name", Ekattor Tv
 https://global.ncare.live/live-orgin/ekattor.stream/playlist.m3u8  
 
@@ -18,7 +21,7 @@ https://global.ncare.live/live-orgin/somoyt000011226615544544.stream/playlist.m3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS66EJbmWeAyj7uONQ56IXzLVS4FRNnpxUVDnhQ38noGL-ToulIcKSgalE&s=10" group-title="Grope Name", Movie Bangla 
 https://global.ncare.live/live-orgin/moviebanglalink2.stream/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDIrPets2sL60aHssqiKPYPG_hKToPg-pWEEwCiuujfUM=s900-c-k-c0x00ffffff-no-rj" group-title="Grope Name", T Sports 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lDIrPets2sL60aHssqiKPYPG_hKToPg-pWEEwCiuujfUM=s900-c-k-c0x00ffffff-no-rj" group-title="Grope Name", My Tv
 https://mytvbangla.com/0.m3u8   
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW-CoN24BDOIYYKvxJdVTlmw93FG_9xEftf6SmIxPFwU2Wjz17bomQ0kDM&s=10" group-title="Grope Name", ATN Tv
